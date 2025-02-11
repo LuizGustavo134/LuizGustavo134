@@ -1,11 +1,11 @@
 - 👋 Hello, I'm Luiz 
 - 👀 I am very interested in python and its web applications
-- 🌱 I often study python, although I have a keen interest in C++
+- 🌱 I often study python
 - 📝I am currently attending ADS college 2nd semester
   #=====================================
  - 👋 Olá, eu sou Luiz 
 - 👀 Sou muito interesado em python e suas aplicações web
-- 🌱 Estudo frequentemente python, embora tenha um grande interesse em C++
+- 🌱 Estudo frequentemente python
 - 📝Atualmente estou fazendo faculdade de ADS 2ºsemestre
 
 
